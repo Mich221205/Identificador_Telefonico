@@ -63,3 +63,5 @@
 29/06/2025: {"tipo_transaccion": 5, "telefono": "88765432", "destino": "#909*", "fecha": "20250629", "hora": "224517", "duracion": "224517", "costo": 0.0, "identificadorTel": "1234567890123456", "identificador_tarjeta": "1234567890123456789"}
 29/06/2025: {"tipo_transaccion": 2, "telefono": "87654321", "identificadorTel": "2345678901234567", "identificador_tarjeta": "2345678901234567890"}
 29/06/2025: {"tipo_transaccion": 2, "telefono": "87654321", "identificadorTel": "2345678901234567", "identificador_tarjeta": "2345678901234567890"}
+02/07/2025: {"telefono": "88765432", "identificadorTel": "1234567890123456", "identificadorChip": "P0N9wlDOkQo2aIrAhmtLoNCqZE6UxItt3v8H+HTU21s=", "coordenadas": "9.9333,-84.0833", "tipo_transaccion": 1, "destino": "IEzCKdsSzyYV+TOrHLbwnQ==", "tipo_llamada": 1, "identificador_tarjeta": "1234567890123456789"}
+02/07/2025: {"tipo_transaccion": 5, "telefono": "88765432", "destino": "88765432", "fecha": "20250702", "hora": "145129", "duracion": "000012", "costo": 16.807901746655237, "identificadorTel": "1234567890123456", "identificador_tarjeta": "1234567890123456789"}

@@ -122,7 +122,7 @@ def manejar_cliente(cliente_socket):
             print(f"Datos recibidos: {datos_raw}")
             datos = json.loads(datos_raw)
 
-            tipo_tx = datos.get('tipo_transaccion', '').strip()
+            tipo_tx = str(datos.get('tipo_transaccion', '')).strip()
 
             # ✅ PRIORIDAD: manejar activación/desactivación antes de validar todo
             if tipo_tx == "6":
