@@ -6,7 +6,7 @@ MYSQL_CONFIG = {
     'host': 'localhost',
     'port': 3306,
     'user': 'root',
-    'password': 'mich22',
+    'password': '',
     'database': 'SYSTEM_IDENTIFICADOR'
 }
 
