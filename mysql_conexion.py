@@ -10,7 +10,8 @@ from mysql.connector import connect, Error
 from config_identificador import MYSQL_CONFIG, IDENTIFICADOR_HOST, IDENTIFICADOR_PORT, PROVEEDOR_HOST, PROVEEDOR_PORT
 
 AES_KEY = b'1234567890123456'
-AES_IV = b'initialvector123'
+AES_IV  = b'6543210987654321'
+
 TRANSACCIONES_VALIDAS = {1, 2, 3, 4, 5, 6}
 llamadas_activas = []
 
